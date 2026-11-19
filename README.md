@@ -14,7 +14,8 @@
 
 ## Output of main.dart
 
-PS D:\GitHub\dart-oop-26443> dart run bug_hunt.dart
+PS D:\GitHub\dart-oop-26443> dart run main.dart
+
 Error: name too short
 Owner: Ama | Balance: 1730 RWF
 Owner: Mukiza Nseko Gervais | Balance: 1730 RWF
